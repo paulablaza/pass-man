@@ -8,9 +8,6 @@
     numbers: true,
   });
 
-  // 'uEyMTw32v9'
-  console.log(password);
-
   let input;
   let length = 15;
   let lowercase = true;
